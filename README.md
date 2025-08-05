@@ -2,7 +2,7 @@ Olá! Seja bem-vindo(a) ao meu perfil. 👋
 Me chamo Ana Letícia Cabral.
 
 📚 Sou estudante de **Ciência da Computação** e desenvolvedora em formação. 
-Atualmente estou focando meus estudos no **desenvolvimento Backend**, mas também busco conhecer o Frontend para ampliar meus conhecimentos.
+Atualmente estou focando meus estudos no **desenvolvimento Backend**, mas também busco explorar o Frontend para ampliar meus conhecimentos.
 
  *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.*
 # 
