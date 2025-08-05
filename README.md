@@ -34,10 +34,19 @@ Ferramentas:
 #
 </div>
 <br>
-<div style="display: flex; justify-content: center; gap: 1rem;">
-  <a href="https://github.com/ana-leticia-cabral" style="display: flex; gap: 1rem;">
-    <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ana-leticia-cabral&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ana-leticia-cabral&layout=compact&langs_count=6&theme=tokyonight" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ana-leticia-cabral">
+        <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ana-leticia-cabral&show_icons=true&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ana-leticia-cabral">
+        <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ana-leticia-cabral&layout=compact&langs_count=6&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
