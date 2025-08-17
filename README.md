@@ -1,35 +1,45 @@
-Olá! Seja bem-vindo(a) ao meu perfil. 👋 
+<img width="75" alt="image" src="https://github.com/user-attachments/assets/44e52d3d-5c29-49cf-a23d-0d5e1ae57286" />
+
+
+Olá! Seja bem-vindo(a) ao meu perfil.  👋
 Me chamo Ana Letícia Cabral.
 
-📚 Sou estudante de **Ciência da Computação** e desenvolvedora em formação. 
-Atualmente estou focando meus estudos no **desenvolvimento Backend**, mas também busco explorar o Frontend para ampliar meus conhecimentos.
+📚 Sou estudante de **Ciência da Computação** e desenvolvedora em formação.
 
- *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.*
-# 
-### Tecnologias que estou aprendendo e aprimorando: 
+🖥️ Atualmente estou focando meus estudos no **Desenvolvimento Web**.
 
+📂 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.*
 
 <div style="display: inline_block;"><br>
- 
-  Linguagens:    
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="55" />
 
-###
-Banco de dados: 
+### Tecnologias em que tenho conhecimento e sigo em constante aprendizado:                                     
+      
+ 
+## *Linguagens*:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="65" />
+
+
+## *Frameworks*:
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" height="65" />
+          
+
+## *Banco de dados*: 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="65" />
 
-###
-Ferramentas:
+## *Ferramentas*:
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt ="Postman" width="55" />
+          
+          
 
 
 
