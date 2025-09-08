@@ -1,70 +1,43 @@
-<img width="80" alt="image" src="https://github.com/user-attachments/assets/44e52d3d-5c29-49cf-a23d-0d5e1ae57286" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
 
-Olá! Seja bem-vindo(a) ao meu perfil.  👋
-Me chamo Ana Letícia Cabral.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+bem+-+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-📚 Sou estudante de **Ciência da Computação** e desenvolvedora em formação.
+# Sobre
 
-🖥️ Atualmente estou focando meus estudos no **Desenvolvimento Web**.
+👩🏾‍💻 Meu nome é Ana Letícia Cabral do Rosário, tenho 20 anos e sou graduanda em Ciência da Computação. 
+
+🌱 Atualmente estou focando meus estudos no **Desenvolvimento Web**, utilizando Java e Spring Boot
 
 📂 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.*
 
-<div style="display: inline_block;"><br>
+## Tecnologias em que tenho conhecimento e sigo em constante aprendizado:
 
-### Tecnologias em que tenho conhecimento e sigo em constante aprendizado:                                     
+<div align = "center">
       
- 
-## *Front-end*
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
-
-## *Back-end*
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="50" />
-
-## *Frameworks*
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" height="55" />
-          
-
-## *Banco de dados* 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="55" />
-
-## *Ferramentas*
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt ="Postman" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt = "Markdown" width="40"/>
-          
-          
-          
-
-
-
-#
+| Front-end | Back-end | Frameworks | Banco de Dados | Testes | Versionamento |
+| --------- | -------- | --------- | ---------------| ----- | ------------- |
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height ="70" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="70" height ="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="70" height ="70" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height ="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" width="60" height ="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="70" height ="70" />
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height ="70" /> | | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="70" height ="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt ="Postman" width="60" height ="60"/>
 
 </div>
-<br>
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/ana-leticia-cabral">
-        <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ana-leticia-cabral&show_icons=true&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ana-leticia-cabral">
-        <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ana-leticia-cabral&layout=compact&langs_count=6&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
+## Estatísticas
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ana Letícia Cabral github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&layout=compact&hide_border=true&title_color=4682B4&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ana-leticia-cabral&bg_color=0d1117&color=58a6ff&line=1f6feb&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## Contato
+<div align="center"> 
+<a href = "cabraldorosarioanaleticia@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ana-letícia-cabral-do-rosário-9a067631a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
