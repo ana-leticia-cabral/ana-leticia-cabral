@@ -11,7 +11,7 @@
 
 📂 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.*
 
-## ![output-onlinegiftools-com (1)](https://github.com/user-attachments/assets/8e3c789e-a54f-4d4d-aab3-7b70fcf0449a) Tecnologias que fazem parte do meu desenvolvimento e aprendizado constante:
+## Tecnologias que fazem parte do meu desenvolvimento e aprendizado constante:
 
       
 | Front-end | Back-end | Frameworks | Banco de Dados | Testes | Versionamento |
