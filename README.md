@@ -32,7 +32,7 @@
 </div>
 
 ### Certificações
-[![Certificações](https://img.shields.io/badge/GitHub-Certificações-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/repositorio-certificados)
+[![Certificações](https://img.shields.io/badge/GitHub-Certificações-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ana-leticia-cabral/certificados-tecnologia)
 
 
 
