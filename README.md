@@ -12,8 +12,6 @@
 📂 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.*
 
 
-## Estatísticas
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ana Letícia Cabral github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&layout=compact&hide_border=true&title_color=4682B4&text_color=c9d1d9&bg_color=0d1117" />
