@@ -11,15 +11,6 @@
 
 📂 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.*
 
-## Tecnologias que fazem parte do meu desenvolvimento e aprendizado constante:
-
-      
-| Front-end | Back-end | Frameworks | Banco de Dados | Testes | Versionamento |
-| --------- | -------- | --------- | ---------------| ----- | ------------- |
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height ="70" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="70" height ="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="70" height ="70" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height ="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" width="55" height ="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="70" height ="70" />
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height ="70" /> | | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="70" height ="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt ="Postman" width="55" height ="55"/>
-
-
 
 ## Estatísticas
 
@@ -31,5 +22,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ana-leticia-cabral&bg_color=0d1117&color=58a6ff&line=1f6feb&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Tecnologias que fazem parte do meu desenvolvimento e aprendizado constante
+
+<div align = "center" >
+      
+| Front-end | Back-end | Frameworks | Banco de Dados | Testes | Versionamento |
+| --------- | -------- | --------- | ---------------| ----- | ------------- |
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height ="70" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="70" height ="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="70" height ="70" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height ="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" width="55" height ="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="70" height ="70" />
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height ="70" /> | | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="70" height ="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt ="Postman" width="55" height ="55"/>
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
