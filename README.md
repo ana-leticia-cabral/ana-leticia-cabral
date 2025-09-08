@@ -21,6 +21,7 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height ="70" /> | | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="70" height ="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt ="Postman" width="60" height ="60"/>
 
 </div>
+
 ## Estatísticas
 
 <div align="center">  
