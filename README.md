@@ -10,7 +10,7 @@ Meu nome é **Ana Letícia Cabral do Rosário**, tenho 20 anos e sou graduanda e
 
 🌱 Atualmente estou focando meus estudos no **Desenvolvimento Web**, utilizando **Java** e **Spring Boot**.  
 
-📚 Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia.
+📚 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia*.
 
  
 
