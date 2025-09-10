@@ -29,8 +29,12 @@ Meu nome é **Ana Letícia Cabral do Rosário**, tenho 20 anos e sou graduanda e
 
 <div align="center">
  
-![ana-leticia-cabral's Stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&theme=dark&show_icons=true&hide_border=true&count_private=false)
-![ana-leticia-cabral's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![ana-leticia-cabral's Stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&theme=prussian&show_icons=true&hide_border=true&count_private=false)
+
+![ana-leticia-cabral's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ana-leticia-cabral&theme=prussian&hide_border=true)
+
+![ana-leticia-cabral's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ana-leticia-cabral&bg_color=0d1117&color=58a6ff&line=1f6feb&point=fcfcfc&area=true&hide_border=true&cache_seconds=3600)](https://github.com/ana-leticia-cabral)
