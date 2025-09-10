@@ -30,6 +30,7 @@ Meu nome é **Ana Letícia Cabral do Rosário**, tenho 20 anos e sou graduanda e
 <div align="center">
  
 ![ana-leticia-cabral's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+<img width="200" height="200" alt="Java ícones criados por Flat Icons - Flaticon" src="https://github.com/user-attachments/assets/356a0e88-6eab-4c79-8afd-350582af0cd7" />
 
 ![ana-leticia-cabral's Stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&theme=prussian&show_icons=true&hide_border=true&count_private=false)
 
