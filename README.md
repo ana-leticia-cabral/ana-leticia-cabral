@@ -6,9 +6,11 @@
 
 ## 👩🏾‍💻 Sobre
 
-Meu nome é **Ana Letícia Cabral do Rosário**, tenho 20 anos e sou graduanda em Ciência da Computação.  
+Meu nome é **Ana Letícia Cabral do Rosário**, tenho 20 anos e sou graduanda em Ciência da Computação.
 
-🌱 Atualmente estou focando meus estudos no **Desenvolvimento Web**, utilizando **Java** e **Spring Boot**.  
+📍 Sou estagiária de Dados no Banco do Brasil
+
+🌱 Atualmente estou focando meus estudos para duas áreas principais: **Análise de Dados** e **Desenvolvimento Web**, utilizando **Java** e **Spring Boot**.  
 
 📚 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia*.
 
