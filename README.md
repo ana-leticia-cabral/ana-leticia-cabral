@@ -4,15 +4,13 @@
 
 ---
 
-## 👩🏾‍💻 Sobre
+## 👩🏾‍💻 Ana Letícia Cabral do Rosário
 
-📍 Meu nome é **Ana Letícia Cabral do Rosário**, sou graduanda em Ciência da Computação e **estagiária na área de dados** no Banco do Brasil.
+📍 Graduanda em Ciência da Computação e **Estagiária na área de dados** no Banco do Brasil.
 
-🌱 Atualmente estou focando meus estudos para duas áreas principais: **Análise de Dados** e **Desenvolvimento Web**, utilizando **Java** e **Spring Boot**.  
-
-📚 *Este perfil tem como objetivo compartilhar meus aprendizados e acompanhar meu progresso na área de tecnologia*.
-
- 
+🌱 Atualmente estou focando meus estudos para duas áreas principais: 
+* **Análise de Dados**
+* **Desenvolvimento Web**, utilizando **Java** e **Spring Boot**.  
 
 🗂️ **Acesse minhas certificações:**  
 
