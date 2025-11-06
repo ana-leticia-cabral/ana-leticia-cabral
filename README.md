@@ -1,14 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-
----
-
 ## Ana Letícia Cabral do Rosário
 
 Graduanda em Ciência da Computação, atualmente estagiando na área de dados no Banco do Brasil, em Brasília. Tenho 20 anos e estou em constante aprendizado, explorando caminhos nas áreas de **análise de dados** e **desenvolvimento backend com Java**.
 
----
 
 ## Estatísticas GitHub
 
@@ -23,7 +18,6 @@ Graduanda em Ciência da Computação, atualmente estagiando na área de dados n
 
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ana-leticia-cabral&bg_color=0d1117&color=58a6ff&line=1f6feb&point=fcfcfc&area=true&hide_border=true&cache_seconds=3600)](https://github.com/ana-leticia-cabral)
 
----
 
 ## Tecnologias
 
