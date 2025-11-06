@@ -4,26 +4,13 @@
 
 ---
 
-## 👩🏾‍💻 Ana Letícia Cabral do Rosário
+## Ana Letícia Cabral do Rosário
 
-📍 Graduanda em Ciência da Computação e **Estagiária na área de dados** no Banco do Brasil.
-
-🌱 Atualmente estou focando meus estudos para duas áreas principais: 
-* **Análise de Dados**
-* **Desenvolvimento Web**, utilizando **Java** e **Spring Boot**.  
-
-🗂️ **Acesse minhas certificações:**  
-
-[![Certificações](https://img.shields.io/badge/Certificações-4682B4?style=for-the-badge&logoColor=white)](https://github.com/ana-leticia-cabral/certificados-tecnologia)
-
-
-
-  
-
+Graduanda em Ciência da Computação, atualmente estagiando na área de dados no Banco do Brasil, em Brasília. Tenho 20 anos e estou em constante aprendizado, explorando caminhos nas áreas de **análise de dados** e **desenvolvimento backend com Java**.
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
 
@@ -38,7 +25,7 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## Tecnologias
 
 <div align="center">
 
