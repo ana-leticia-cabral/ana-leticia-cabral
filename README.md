@@ -7,7 +7,7 @@ Graduanda em Ciência da Computação, atualmente estagiando na área de dados n
 
 ## Estatísticas GitHub
 
-<div>
+<div align="center">
 
 ![ana-leticia-cabral's Stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&theme=prussian&show_icons=true&hide_border=true&count_private=false)
 ![ana-leticia-cabral's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ana-leticia-cabral&theme=prussian&hide_border=true)
