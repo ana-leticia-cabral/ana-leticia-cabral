@@ -2,7 +2,7 @@
 
 ## Ana Letícia Cabral do Rosário
 
-Graduanda em Ciência da Computação, atualmente estagiando na área de dados no Banco do Brasil, em Brasília. Tenho 20 anos e estou em constante aprendizado, explorando caminhos nas áreas de **análise de dados** e **desenvolvimento backend com Java**.
+Graduanda em Ciência da Computação, atualmente estagiando na área de dados no Banco do Brasil, em Brasília. Tenho 21 anos e estou em constante aprendizado, explorando caminhos nas áreas de **análise de dados** e **desenvolvimento backend com Java**.
 
 
 ## Estatísticas GitHub
