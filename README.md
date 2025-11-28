@@ -2,21 +2,9 @@
 
 ## Ana Letícia Cabral do Rosário
 
-Graduanda em Ciência da Computação, atualmente estagiando na área de dados no Banco do Brasil, em Brasília. Tenho 21 anos e estou em constante aprendizado, explorando caminhos nas áreas de **análise de dados** e **desenvolvimento backend com Java**.
-
-
-## Estatísticas GitHub
-
-<div align="center">
-
-![ana-leticia-cabral's Stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&theme=prussian&show_icons=true&hide_border=true&count_private=false)
-![ana-leticia-cabral's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ana-leticia-cabral&theme=prussian&hide_border=true)
-
-
-</div>
-
-[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ana-leticia-cabral&bg_color=0d1117&color=58a6ff&line=1f6feb&point=fcfcfc&area=true&hide_border=true&cache_seconds=3600)](https://github.com/ana-leticia-cabral)
-
+* Graduanda em Ciência da Computação
+* Estagiária em Dados no Banco do Brasil
+* Explorando caminhos nas áreas de **Análise de dados** e **Desenvolvimento backend com Java**.
 
 ## Tecnologias
 
