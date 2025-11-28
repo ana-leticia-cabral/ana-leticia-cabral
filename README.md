@@ -3,7 +3,7 @@
 ## Ana Letícia Cabral do Rosário
 
 * Graduanda em Ciência da Computação
-* Estagiária em Dados no Banco do Brasil
+* Estagiária em dados no Banco do Brasil
 * Explorando caminhos nas áreas de **Análise de dados** e **Desenvolvimento backend com Java**.
 
 ## Tecnologias
