@@ -4,7 +4,7 @@
 
 * Graduanda em Ciência da Computação  
 * Estagiária em dados no Banco do Brasil  
-* Explorando caminhos nas áreas de **Análise de dados** e **Desenvolvimento backend com Java**.
+* Explorando caminhos nas áreas de **Análise de dados** e **Desenvolvimento web**.
 
 
 
