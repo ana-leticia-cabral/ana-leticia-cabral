@@ -2,10 +2,9 @@
 
 ## Ana Letícia Cabral do Rosário
 
-* Graduanda em Ciência da Computação  
-* Estagiária em dados no Banco do Brasil  
-* Explorando caminhos nas áreas de **Análise de dados** e **Desenvolvimento web**.
-
+Sou graduanda em Ciência da Computação e estagiária na área de Dados no Banco do Brasil.
+Meu objetivo é me tornar uma excelente profissional na área de Análise de Dados e, sem dúvidas, expandir meus conhecimentos para além dessa área.
+Este perfil tem como propósito apresentar meu desenvolvimento contínuo como estudante, compartilhando projetos pessoais e atividades realizadas ao longo dos meus estudos. Ele funciona como um portfólio da minha evolução profissional.
 
 
 ## Tecnologias e Ferramentas
