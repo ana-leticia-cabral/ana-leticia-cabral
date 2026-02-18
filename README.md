@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=375534&height=120&section=header"/>
 
 ## Ana Letícia Cabral do Rosário
 
@@ -21,4 +21,4 @@ Este perfil tem como propósito apresentar meu desenvolvimento contínuo como es
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=375534&height=120&section=footer"/>
