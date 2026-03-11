@@ -4,7 +4,7 @@
 
 - Graduanda em Ciência da Computação - Universidade Católica de Brasília
 - Estagiária em Análise de Dados - Banco do Brasil
-- 📊 [Google Data Analytics Professional Certificate](https://github.com/ana-leticia-cabral/https://github.com/ana-leticia-cabral/Certificado-Profissional-de-Analise-de-dados-do-Google)
+- 📊 [Google Data Analytics Professional Certificate](https://github.com/ana-leticia-cabral/Certificado-Profissional-de-Analise-de-dados-do-Google)
 
 *Este perfil tem como propósito apresentar meu desenvolvimento contínuo como estudante, compartilhando projetos pessoais e atividades realizadas ao longo dos meus estudos. Ele funciona como um portfólio da minha evolução profissional.* 📈
 
