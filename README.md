@@ -16,13 +16,9 @@
 - Planilhas eletrônicas: Google Sheets | Excel
 - Visualização de dados: PowerBI | Tableau
 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral)](https://github.com/ana-leticia-cabral/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&size_weight=0.5&count_weight=0.5)
 
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&size_weight=0.5&count_weight=0.5&cache_seconds=1800)
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
