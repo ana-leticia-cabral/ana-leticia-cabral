@@ -12,9 +12,9 @@
 
 ## 📊 Meus Projetos de Dados
 
-| Projeto | Tecnologias |
-|---------|--------------|
-| [Análise de vendas de uma rede de fast-food](https://github.com/ana-leticia-cabral/Relatorio-de-vendas-Chaska-Cafe) | ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)|
+| Projeto | Tecnologias | Data
+|---------|--------------|------
+| [Análise de vendas de uma rede de fast-food](https://github.com/ana-leticia-cabral/Relatorio-de-vendas-Chaska-Cafe) | ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)| Fevereiro de 2026
 
 
 ---
