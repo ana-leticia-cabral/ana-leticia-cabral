@@ -29,6 +29,7 @@
 **Banco de dados:**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/-IBM%20DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **Planilhas eletrônicas:**
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
@@ -37,13 +38,5 @@
 **Visualização de dados:**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
----
-
-## Estatísticas Github
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-leticia-cabral&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-leticia-cabral&size_weight=0.5&count_weight=0.5&cache_seconds=1800)
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
