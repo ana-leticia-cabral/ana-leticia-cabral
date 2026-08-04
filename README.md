@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
 ## 🎲 Ana Letícia Cabral do Rosário
 
@@ -46,4 +46,4 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
